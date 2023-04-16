@@ -30,3 +30,5 @@ to (address): The address of the recipient of the tickets.
 
 #### License
 - This project is licensed under the terms of the MIT license.
+
+##### Note: This contract is intended for educational and experimental purposes only and should not be used for any actual event organization system without complete satisfaction.
